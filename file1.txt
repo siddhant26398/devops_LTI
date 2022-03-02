@@ -2,3 +2,4 @@
 
 echo "created first repo"
 echo "push first file"
+echo "chnaged"
